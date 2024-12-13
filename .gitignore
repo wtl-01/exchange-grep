@@ -1,0 +1,10 @@
+
+*.pcap
+*.txt
+*.csv
+/.idea
+/cmake-build-debug
+*.tar
+*.bz2
+*.out
+*.o
